@@ -34,7 +34,7 @@ int grid[9][9] = {
     {5, 0, 0, 0, 0, 9, 0, 0, 0},
     {0, 0, 0, 0, 0, 0, 0, 4, 0}
 };
-
+```
 ## Additional Information
 
 Refer to the **report** file to learn more about how this Sudoku solver was built and the concepts involved.
